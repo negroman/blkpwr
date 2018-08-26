@@ -1,1 +1,4 @@
-# blkpwr
+blkpwr
+========
+
+> init repo
